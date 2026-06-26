@@ -1,9 +1,5 @@
 # Copilot-Submission- 
-Amplify Ai Task Prompts- includes all the prompts I used during this project 
-Email Summary Ai Training- includes the email summary created by copliot 
-Meeting Schedule- includes schedule created by copilot using my prompt 
-Meeting Summary- includes summary created by copilot from meeting notes 
-Supply chain issues review- document of supply chain issues summary created by copliot 
-Supply chain report- included report created by copliot with data from project 
-Task 3- includes summary of data from excel file 
-Task 4- PowerPoint presentation of data from excel file and supply chain issues review 
+Task 1: Email Summary that identifies three key issues and provides five actionable next steps & Supply Chain Issues Review document is formatted with required sections: Introduction, Outline of Business Problem, Action Items, and Conclusion.
+Task 2: Includes screenshot of Copliot Outlook meeting invite generated with agenda in bullet point format titled Supply Chain Issue Review. Also includes the summary of the meeting transcript created by copliot in teams. Lastly, the Supply Chain Anaylsis Report created by copliot in Word that contains: executive summary, component overview, compliance implications, root cause anaylsis, and mitigation strategies. 
+Task 3: A Supply Chain Report created by Copliot to analyze data. As well as a Supply Chain Anaylsis Report created by Copilot in Word used from the data in the excel file that contains: executive summary, component overview, compliance implications, root cause anaylsis, and mitigation strategies. 
+Task 4: A powerpoint presentation created by copilot with data from the Supply Chain Analysis report and Supply Chain Report (excel file) that contains 5 or more slides with key implications, data insights, and implemntation plans. 
